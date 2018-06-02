@@ -449,7 +449,7 @@ Special thanks to digitky, OldMac, Schooli, 阿泽西
     <String Target="正在扫描第%d个可清理的注册表项。。。" Link="S%d 검색된 레지스트리 항목을 정리…"/>
 
     <!--驱动管理-->
-    <String Target="温馨提示：删除关键驱动可能导致计算机无法启动" Link="주의: 중요 드라이브를 제거하면 컴퓨터가 부팅되지 않을 수 있습니다."/>
+    <String Target="温馨提示：删除关键驱动可能导致计算机无法启动" Link="주의: 중요 드라이버를 제거하면 컴퓨터가 부팅되지 않을 수 있습니다."/>
     <String Target="关键驱动：%s" Link="중요 드라이버: %s"/>
     <String Target="类别标识：%s" Link="클래스: %s"/>
     <String Target="驱动版本：%hu.%hu.%hu.%hu" Link="드라이버 버전: %hu.%hu.%hu.%hu"/>
@@ -468,7 +468,7 @@ Special thanks to digitky, OldMac, Schooli, 阿泽西
     <String Target="正在加载驱动" Link="드라이버 읽기 중"/>
     <String Target="请选择驱动保存路径" Link="드라이버 저장위치를 선택하십시오."/>
     <String Target="正在导出驱动" Link="드라이버 내보내기 중"/>
-    <String Target="导出驱动时遇到问题，具体参考Dism++.log" Link="드라이브 내보내기에서 오류가 발생했습니다. 자세한 정보는 Dism++.log를 참조하십시오."/>
+    <String Target="导出驱动时遇到问题，具体参考Dism++.log" Link="드라이버 내보내기에서 오류가 발생했습니다. 자세한 정보는 Dism++.log를 참조하십시오."/>
 
     <String Target="正在删除驱动" Link="드라이버 삭제 중"/>
     <String Target="一个或者多个驱动删除失败，错误代码：0x%.8X" Link="하나 이상의 드라이버 삭제 실패, 오류 코드: 0x%.8X"/>
@@ -845,7 +845,7 @@ Special thanks to digitky, OldMac, Schooli, 阿泽西
     <String Target="右键菜单管理 - 禁用不需要的菜单提高响应速度" Link="우클릭메뉴 관리 - 빠른 응답속도를 위해 불필요한 메뉴 비활성화"/>
     <String Target="禁用可执行文件的“兼容性疑难解答”右键菜单（by 莫失莫忘）" Link="우클릭메뉴 실행 파일의 &quot;호환성문제 해답&quot; 사용안함 (by MoWangMoShi)"/>
     <String Target="禁用文件、文件夹以及磁盘的“使用Windows Defender扫描”右键菜单（by 莫失莫忘）" Link="우클릭메뉴 파일/폴더 및 디스크에 &quot;Defender 검색사용&quot;을 사용안함 (by MoWangMoShi)"/>
-    <String Target="禁用文件、磁盘以及属性的“还原以前版本”右键菜单（by 莫失莫忘）" Link="우클릭메뉴 파일,디스크 및 속성 &quot;복원 이전 버전&quot;을 사용안함 (by MoWangMoShi)"/>
+    <String Target="禁用文件、磁盘以及属性的“还原以前版本”右键菜单（by 莫失莫忘）" Link="우클릭메뉴 파일/폴더/드라이브 &quot;이전 버전 복원&quot;을 사용안함 (by MoWangMoShi)"/>
     <String Target="禁用文件、文件夹、桌面以及所有对象的“共享文件夹同步”右键菜单" Link="우클릭메뉴 파일/폴더/바탕화면 및 모든 대상에 &quot;공유 폴더를 동기화&quot;를 사용안함"/>
     <String Target="禁用新建“ZIP/RAR文件”右键菜单（by 莫失莫忘）" Link="우클릭메뉴 &quot;ZIP/RAR파일&quot; 만들기를 사용안함 (by MoWangMoShi)"/>
     <String Target="禁用新建、文件以及文件夹的“公文包”右键菜单" Link="우클릭메뉴 새로만들기/파일 및 폴더 &quot;서류가방&quot;을 사용안함"/>
@@ -913,7 +913,7 @@ Special thanks to digitky, OldMac, Schooli, 阿泽西
 
     <String Target="更新挂起时如果有用户登录不自动重启计算机（by Rambin）" Link="업데이트 중단 시 사용자 로그인이 있으면, 자동 재부팅 하지않기 (by Rambin)"/>
 
-    <String Target="Windows更新不包括驱动程序" Link="Windows 업데이트 시 드라이브를 포함하지 않음"/>
+    <String Target="Windows更新不包括驱动程序" Link="Windows 업데이트 시 드라이버를 포함하지 않음"/>
 
     <String Target="*将Windows Update自动更新调整为" Link="*Windows Update의 자동업데이트를 다음과 같이 조정"/>
       <String Target="从不检查（不推荐）" Link="업데이트를 확인하지 않음 (권장하지 않음)"/>
