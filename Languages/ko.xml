@@ -376,7 +376,7 @@ Special thanks to digitky, OldMac, Schooli, 阿泽西
     <String Target="大约压缩36%" Link="압축 36%"/>
     <String Target="大约压缩38%" Link="압축 38%"/>
     <String Target="大约压缩44%（更小体积）" Link="압축 44% (작은 크기)"/>
-    <String Target="加载WofAdk驱动（可能导致蓝屏！）" Link="WofAdk 드라이브 가져오기 (시트템에 오류가 날 수 있음-BOSD)"/>
+    <String Target="加载WofAdk驱动（可能导致蓝屏！）" Link="WofAdk 드라이버 가져오기 (시트템에 오류가 날 수 있음-BOSD)"/>
     <String Target="更新差异传输引擎：" Link="Windows 업데이트 :"/>
     <String Target="关闭" Link="닫기"/>
     <String Target="快速" Link="빠름"/>
@@ -449,7 +449,7 @@ Special thanks to digitky, OldMac, Schooli, 阿泽西
     <String Target="正在扫描第%d个可清理的注册表项。。。" Link="S%d 검색된 레지스트리 항목을 정리…"/>
 
     <!--驱动管理-->
-    <String Target="温馨提示：删除关键驱动可能导致计算机无法启动" Link="주의: 중요 드라이브를 제거하면 컴퓨터가 부팅되지 않을 수 있습니다."/>
+    <String Target="温馨提示：删除关键驱动可能导致计算机无法启动" Link="주의: 중요 드라이버를 제거하면 컴퓨터가 부팅되지 않을 수 있습니다."/>
     <String Target="关键驱动：%s" Link="중요 드라이버: %s"/>
     <String Target="类别标识：%s" Link="클래스: %s"/>
     <String Target="驱动版本：%hu.%hu.%hu.%hu" Link="드라이버 버전: %hu.%hu.%hu.%hu"/>
@@ -468,7 +468,7 @@ Special thanks to digitky, OldMac, Schooli, 阿泽西
     <String Target="正在加载驱动" Link="드라이버 읽기 중"/>
     <String Target="请选择驱动保存路径" Link="드라이버 저장위치를 선택하십시오."/>
     <String Target="正在导出驱动" Link="드라이버 내보내기 중"/>
-    <String Target="导出驱动时遇到问题，具体参考Dism++.log" Link="드라이브 내보내기에서 오류가 발생했습니다. 자세한 정보는 Dism++.log를 참조하십시오."/>
+    <String Target="导出驱动时遇到问题，具体参考Dism++.log" Link="드라이버 내보내기에서 오류가 발생했습니다. 자세한 정보는 Dism++.log를 참조하십시오."/>
 
     <String Target="正在删除驱动" Link="드라이버 삭제 중"/>
     <String Target="一个或者多个驱动删除失败，错误代码：0x%.8X" Link="하나 이상의 드라이버 삭제 실패, 오류 코드: 0x%.8X"/>
@@ -509,7 +509,7 @@ Special thanks to digitky, OldMac, Schooli, 阿泽西
     <String Target="正在加载服务" Link="서비스 로드 중"/>
     <String Target="应用服务" Link="응용 프로그램"/>
     <String Target="系统服务" Link="시스템 서비스"/>
-    <String Target="驱动程序" Link="드라이브"/>
+    <String Target="驱动程序" Link="드라이버"/>
 
     <!--功能-->
     <String Target="指定本地源" Link="로컬소스 지정"/>
@@ -913,7 +913,7 @@ Special thanks to digitky, OldMac, Schooli, 阿泽西
 
     <String Target="更新挂起时如果有用户登录不自动重启计算机（by Rambin）" Link="업데이트 중단 시 사용자 로그인이 있으면, 자동 재부팅 하지않기 (by Rambin)"/>
 
-    <String Target="Windows更新不包括驱动程序" Link="Windows 업데이트 시 드라이브를 포함하지 않음"/>
+    <String Target="Windows更新不包括驱动程序" Link="Windows 업데이트 시 드라이버를 포함하지 않음"/>
 
     <String Target="*将Windows Update自动更新调整为" Link="*Windows Update의 자동업데이트를 다음과 같이 조정"/>
       <String Target="从不检查（不推荐）" Link="업데이트를 확인하지 않음 (권장하지 않음)"/>
